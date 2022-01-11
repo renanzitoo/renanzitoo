@@ -6,6 +6,7 @@
   <a href="https://github.com/renanzitoo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=renanzitoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanzitoo&layout=compact&langs_count=7&theme=tokyonight"/>
+  ![programador](https://user-images.githubusercontent.com/91814882/138362919-1e742c6e-7bcf-4551-80b9-8b97504ed601.gif)
 </div>
 
 ![programador](https://user-images.githubusercontent.com/91814882/138362919-1e742c6e-7bcf-4551-80b9-8b97504ed601.gif)
@@ -17,7 +18,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   
 ![Snake animation](https://github.com/renanzitoo/renanzitoo/blob/output/github-contribution-grid-snake.svg)
