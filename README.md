@@ -9,11 +9,11 @@
   <img height="200em" src="https://user-images.githubusercontent.com/91814882/138362919-1e742c6e-7bcf-4551-80b9-8b97504ed601.gif"/>
 </div>
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Renanzitoo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Renanzitoo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Renanzitoo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-![Snake animation](https://github.com/renanzitoo/renanzitoo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/renanzitoo/renanzitoo/blob/output/github-contribution-grid-snake.svg
 
