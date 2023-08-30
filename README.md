@@ -1,6 +1,6 @@
 ## - 👨🏻‍💻💻 Hi, I’m Renan Costa
-- 🧠 I’m interested in JS, C#, C++, Python and PHP                                    
-- 📕 I’m currently learning HTML5, CSS3, and C
+- 🧠 I’m interested in Java, NodeJS, Docker, Kotlin, Swift                        
+- 📕 I’m currently learning Java, NodeJS, Swift
 - 💻 How to reach me renan.costa2098@gmail.com
 <div align="center">
   <a href="https://github.com/renanzitoo">
@@ -10,10 +10,11 @@
 </div>
 
   <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Renanzitoo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Renanzitoo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Renanzitoo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+  <img align="center" alt="swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
   
-![Snake animation](https://github.com/renanzitoo/renanzitoo/blob/output/github-contribution-grid-snake.svg)
+
 
