@@ -1,6 +1,6 @@
 ## - 👨🏻‍💻💻 Hi, I’m Renan Costa
-- 🧠 I’m interested in Java, NodeJS, Docker, Kotlin, Swift                        
-- 📕 I’m currently learning Java, NodeJS, Swift
+- 🧠 I’m interested in Java, NodeJS, Docker, JavaScript, Express                       
+- 📕 I’m currently learning JavaScript, NodeJS, SQL
 - 💻 How to reach me renan.costa2098@gmail.com
 <div align="center">
   <a href="https://github.com/renanzitoo">
