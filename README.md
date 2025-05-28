@@ -1,21 +1,33 @@
-## - 👨🏻‍💻💻 Hi, I’m Renan Costa
-- 🧠 I’m interested in Java, NodeJS, Docker, JavaScript, Express                       
-- 📕 I’m currently learning JavaScript, NodeJS, SQL
-- 💻 How to reach me renan.costa2098@gmail.com
-<div align="center">
-  <a href="https://github.com/renanzitoo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=renanzitoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanzitoo&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="200em" src="https://user-images.githubusercontent.com/91814882/138362919-1e742c6e-7bcf-4551-80b9-8b97504ed601.gif"/>
-</div>
+# 👋 Hi there! I'm Renanzitoo
 
-  <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <img align="center" alt="swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-</div>
-  
+🎯 A passionate **Web3 developer** building decentralized applications with **Smart Contracts**, frontend interfaces, and backend services.
+
+## 🚀 About Me
+
+I'm a developer experienced in modern web and mobile technologies, with a strong focus on **blockchain-based** solutions. My main areas of work include:
+
+- 📦 **Smart Contracts** development using Solidity and Hardhat
+- 🌐 **Next.js** & **React.js** for frontend DApps
+- 🧠 **Node.js** for backend APIs and services
+- 📱 **Flutter** for building cross-platform mobile apps
+- 🔗 Integration with **blockchains**, **wallets (e.g., MetaMask)**, and use of **ethers.js / web3.js**
+
+## 🛠️ Tech Stack
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=flat&logo=ethereum&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 
+## 📬 Contact Me
+
+Feel free to reach out via twitter: **[youremail@example.com](https://x.com/cryprenas)**
+
+---
+
+⭐️ If you're into Web3 development and decentralized tech, follow me for more projects!
