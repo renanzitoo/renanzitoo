@@ -1,16 +1,18 @@
 # 👋 Hi there! I'm Renanzitoo
 
-🎯 A passionate **Web3 developer** building decentralized applications with **Smart Contracts**, frontend interfaces, and backend services.
+🎯 I'm currently focused on learning and building **Smart Contracts** for the decentralized web.
+
 
 ## 🚀 About Me
 
-I'm a developer experienced in modern web and mobile technologies, with a strong focus on **blockchain-based** solutions. My main areas of work include:
+I'm a developer passionate about the Web3 ecosystem. Right now, I'm diving deep into **Smart Contract development** using **Solidity** and **Hardhat**. My goal is to master the logic behind decentralized systems and how blockchain can transform digital interactions.
+
 
 - 📦 **Smart Contracts** development using Solidity and Hardhat
 - 🌐 **Next.js** & **React.js** for frontend DApps
 - 🧠 **Node.js** for backend APIs and services
 - 📱 **Flutter** for building cross-platform mobile apps
-- 🔗 Integration with **blockchains**, **wallets (e.g., MetaMask)**, and use of **ethers.js / web3.js**
+
 
 ## 🛠️ Tech Stack
 
