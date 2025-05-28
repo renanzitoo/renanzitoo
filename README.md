@@ -26,7 +26,7 @@ I'm a developer experienced in modern web and mobile technologies, with a strong
 
 ## 📬 Contact Me
 
-Feel free to reach out via twitter: **[youremail@example.com](https://x.com/cryprenas)**
+Feel free to reach out via twitter: **[cryprenas](https://x.com/cryprenas)**
 
 ---
 
