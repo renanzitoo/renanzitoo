@@ -10,7 +10,7 @@ I'm a developer passionate about the Web3 ecosystem. Right now, I'm diving deep 
 
 - 📦 **Smart Contracts** development using Rust, Solidity and Hardhat
 - 🌐 **Next.js** & **React.js** for frontend DApps
-- 🧠 **Node.js** for backend APIs and services
+- 🧠 **Node.js and C#** for backend APIs and services
 - 📱 **Flutter** for building cross-platform mobile apps
 
 
