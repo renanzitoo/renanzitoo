@@ -18,6 +18,7 @@ I'm a developer passionate about the Web3 ecosystem. Right now, I'm diving deep 
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-000000?style=flat&logo=solana&logoColor=00FFA3)
 ![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=flat&logo=ethereum&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
