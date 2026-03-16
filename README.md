@@ -8,7 +8,7 @@
 I'm a developer passionate about the Web3 ecosystem. Right now, I'm diving deep into **Smart Contract development** using **Solidity** and **Hardhat**. My goal is to master the logic behind decentralized systems and how blockchain can transform digital interactions.
 
 
-- 📦 **Smart Contracts** development using Solidity and Hardhat
+- 📦 **Smart Contracts** development using Rust, Solidity and Hardhat
 - 🌐 **Next.js** & **React.js** for frontend DApps
 - 🧠 **Node.js** for backend APIs and services
 - 📱 **Flutter** for building cross-platform mobile apps
