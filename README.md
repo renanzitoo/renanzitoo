@@ -21,6 +21,7 @@ I'm a developer passionate about the Web3 ecosystem. Right now, I'm diving deep 
 ![Solana](https://img.shields.io/badge/Solana-000000?style=flat&logo=solana&logoColor=00FFA3)
 ![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=flat&logo=ethereum&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
