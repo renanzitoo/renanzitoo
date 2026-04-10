@@ -1,40 +1,37 @@
-# 👋 Hi there! I'm Renanzitoo
+#  Hi there! I'm Renan Costa (Renanzitoo)
 
-🎯 I'm currently focused on learning and building **Smart Contracts** for the decentralized web.
+ **Current Focus:** Building the future of the decentralized web. I am bridging my experience as a **Full-Stack Engineer** with **Smart Contract** development and **Blockchain Security**.
 
+##  About Me
 
-## 🚀 About Me
+I am a Full-Stack Engineer with a proven track record of building high-performance, scalable systems—ranging from **Conversational AI** platforms to **AgTech** data solutions. Currently, I am applying my background in **Machine Learning** to the Web3 space, developing models to detect malicious smart contracts through bytecode analysis.
 
-I'm a developer passionate about the Web3 ecosystem. Right now, I'm diving deep into **Smart Contract development** using **Solidity** and **Hardhat**. My goal is to master the logic behind decentralized systems and how blockchain can transform digital interactions.
+* **Web3 Security:** Developing Deep Learning models with TensorFlow to identify fraud patterns like rug pulls, honeypots, and exploits.
+* **System Architecture:** Expert in microservices using **Node.js**, **React**, and **TypeScript**, with a focus on real-time data and WebSockets.
+* **Performance Specialist:** Experienced in reducing dashboard and API latency by up to 60% using **Redis** and query optimization.
+* **Proven Impact:** Delivered production-ready solutions for 50+ organizations and major corporate clients like **Bayer** and **Cooxupé**.
 
+##  Tech Stack
 
-- 📦 **Smart Contracts** development using Rust, Solidity and Hardhat
-- 🌐 **Next.js** & **React.js** for frontend DApps
-- 🧠 **Node.js and C#** for backend APIs and services
-- 📱 **Flutter** for building cross-platform mobile apps
+- **Languages:** TypeScript, JavaScript, Python, Rust, Solidity, Dart, SQL.
+- **Backend:** Node.js, Express.js, Microservices, WebSockets, REST APIs.
+- **Frontend:** React, Next.js, Flutter (Mobile).
+- **Data & DevOps:** PostgreSQL, Redis, MongoDB, Docker, CI/CD, Supabase.
+- **Web3 & AI:** TensorFlow, PyTorch, Web3.py, Smart Contract Bytecode Analysis.
 
+## Professional Highlights
 
-## 🛠️ Tech Stack
+- **Real-time Systems:** Built sales dashboards tracking 50+ simultaneous conversations via WebSocket integration.
+- **Geospatial Intelligence:** Engineered systems processing real-time soil data for 200+ daily active users.
+- **Code Excellence:** Maintained 80% code coverage through automated testing (Jest) and comprehensive Swagger documentation.
+- **Agile Delivery:** Maintained a 95% on-time delivery rate for MVPs in fast-paced startup environments using Agile methodologies.
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-000000?style=flat&logo=solana&logoColor=00FFA3)
-![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=flat&logo=ethereum&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+## Contact Me
 
-
-## 📬 Contact Me
-
-Feel free to reach out via twitter: **[cryprenas](https://x.com/cryprenas)**
+- **LinkedIn:** [linkedin.com/in/renancostadev](https://linkedin.com/in/renancostadev)
+- **Twitter/X:** [@cryprenas](https://x.com/cryprenas)
+- **Email:** renan.costa2098@gmail.com
+- **GitHub:** [github.com/renanzitoo](https://github.com/renanzitoo)
 
 ---
-
-⭐️ If you're into Web3 development and decentralized tech, follow me for more projects!
+*Currently pursuing a B.S. in Computer Engineering at IFSULDEMINAS (2024-2029).*
